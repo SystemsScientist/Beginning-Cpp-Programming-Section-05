@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Section-05-Workspace" Database="" Version="10000">
-  <Project Name="37-Overview-of-the-Structure-of-a-Cpp-Program" Path="37-Overview-of-the-Structure-of-a-Cpp-Program/37-Overview-of-the-Structure-of-a-Cpp-Program.project" Active="Yes"/>
+  <Project Name="37-Overview-of-the-Structure-of-a-Cpp-Program" Path="37-Overview-of-the-Structure-of-a-Cpp-Program/37-Overview-of-the-Structure-of-a-Cpp-Program.project" Active="No"/>
+  <Project Name="39-Comments" Path="39-Comments/39-Comments.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="37-Overview-of-the-Structure-of-a-Cpp-Program" ConfigName="Debug"/>
+      <Project Name="39-Comments" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="37-Overview-of-the-Structure-of-a-Cpp-Program" ConfigName="Release"/>
+      <Project Name="39-Comments" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

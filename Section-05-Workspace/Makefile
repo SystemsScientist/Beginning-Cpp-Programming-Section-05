@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ 37-Overview-of-the-Structure-of-a-Cpp-Program - Debug ]----------"
-	@cd "37-Overview-of-the-Structure-of-a-Cpp-Program" && "$(MAKE)" -f  "37-Overview-of-the-Structure-of-a-Cpp-Program.mk"
+	@echo "----------Building project:[ 39-Comments - Debug ]----------"
+	@cd "39-Comments" && "$(MAKE)" -f  "39-Comments.mk"
 clean:
-	@echo "----------Cleaning project:[ 37-Overview-of-the-Structure-of-a-Cpp-Program - Debug ]----------"
-	@cd "37-Overview-of-the-Structure-of-a-Cpp-Program" && "$(MAKE)" -f  "37-Overview-of-the-Structure-of-a-Cpp-Program.mk" clean
+	@echo "----------Cleaning project:[ 39-Comments - Debug ]----------"
+	@cd "39-Comments" && "$(MAKE)" -f  "39-Comments.mk" clean
