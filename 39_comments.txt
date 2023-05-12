@@ -1,0 +1,37 @@
+
+Section 05: Comments
+-------------------------------------------------------------------------------------------------------
+
+Comments
+
+	- Are programmer explanations embedded in the source code
+	  
+	- They are also notes, annotations, and anything the
+	  program is doing
+
+	- Comments never make it to the compiler
+
+	- In C++, the preprocessor strips out the comments, so
+	  the compiler never sees them
+
+
+Comments Types
+
+	- Single line comment includes two forward slashes "//"
+
+	- Single line comment example:
+
+		// this is a single line comment
+
+	- Multi-line comment includes a forward slash followed
+	  by two stars and another foward slash "/**/"
+
+	- Multi-line comment example:
+
+		/*
+		 * This is a multi-line comment
+		 * with more lines of comments
+		*/
+
+
+
