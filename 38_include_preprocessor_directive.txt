@@ -1,0 +1,55 @@
+
+Section 05: #include Preprocessor Directive
+--------------------------------------------------------------------
+
+Preprocessor Directives
+
+	- What is a preprocessor?
+
+		+ Is a program that processes source code
+ 		  before the compiler sees it
+
+	- What does it do?
+
+		+ It strips all of the comments out of the 
+		  source code
+
+		+ It then looks for preprocessor directives
+
+		+ And then it replaces the directive with
+		  the appropriate files
+
+	- Directives start with #
+
+	- Commands to the preprocessor
+
+	- Directives list
+
+		+ #include <iostream>
+
+		+ #include "myfile.h"
+
+		+ #if
+
+		+ #elif
+
+		+ #else
+
+		+ #endif
+
+		+ #ifdef
+
+		+ #ifndef
+
+		+ #define
+
+		+ #undef
+
+		+ #line
+
+		+ #error
+
+		#pragma
+
+
+
