@@ -1,0 +1,23 @@
+
+Section 05: Namespaces
+---------------------------------------------------------------------------
+
+Namespaces
+
+	- Why std::cout and not just cout?
+
+	- What is a naming conflict?
+
+	- Names given to parts of code to help reduce naming
+	  conflicts
+
+	- std is the name for the C++ 'standard' namespace
+
+	- Third-party frameworks will have their own namespaces
+
+	- Scope resolution operator ::
+
+	- How can we use these namespaces?
+
+
+
