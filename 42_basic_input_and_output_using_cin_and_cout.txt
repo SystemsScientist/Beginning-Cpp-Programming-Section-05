@@ -1,0 +1,65 @@
+
+Section 05: Basic Input and Output (I/O) Using cin and cout
+------------------------------------------------------------------------------------------------
+
+Basic I/O Using cin and cout
+
+	- cout, cin, cerr, and clog are objects representing streams
+
+	- cout
+
+		+ standard output stream
+
+		+ console
+
+	- cin 
+
+		+ standard input stream
+	
+		+ keyboard
+
+	- <<
+
+		+ insertion operator
+
+		+ output streams
+
+	- >> 
+
+		+ extraction operator
+
+		+ input streams
+
+
+cout and <<
+
+	- Insert the data into the cout stream
+
+		cout << data;
+
+	- Can be chained
+
+		cout << "data 1 is " << data1;
+
+	- Does not automatically add link breaks
+
+		cout << "data 1 is " << data1 << endl;
+		cout << "data 1 is " << data1 << "\n";
+
+
+cin and >>
+
+	- Extract data from the cin stream based on data's type
+
+		cin >> data;
+
+	- Can be chained
+
+		cin >> data1 >> data2;
+
+	- Can fail if the entered data cannot be interpreted
+
+		data could have an undetermined value
+
+
+
